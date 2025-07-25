@@ -1,0 +1,16 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #141414;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+nav span {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+nav span:hover {
+  text-decoration: underline;
+}
