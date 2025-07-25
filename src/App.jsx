@@ -3,7 +3,6 @@ import MyNavbar from "./components/MyNavBar";
 import MyFooter from "./components/MyFooter";
 import MovieGallery from "./components/MovieGallery";
 import './App.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function App() {
   return (
