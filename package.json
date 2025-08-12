@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://senin-username.github.io/proje-adi",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
